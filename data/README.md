@@ -1,0 +1,1 @@
+Place an optional input CSV here. Expected columns: `timestamp` and `energy_kwh`. Avoid committing private or licensed data without permission. The default pipeline creates synthetic data automatically if `--data` is omitted.

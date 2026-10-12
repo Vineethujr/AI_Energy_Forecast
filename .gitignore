@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated model and output artifacts (uncomment if you do not want them in Git)
+# models/*.joblib
+# outputs/*.csv
+# outputs/*.json
+# outputs/*.png
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
